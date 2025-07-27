@@ -38,3 +38,7 @@ Project is created with:
         * post/search/filter/edit a job
         * join a company as a recruiter
         * search,filter candidates and review their applications(hiring,rejecting)
+                  
+## REFERENCE
+#### [Indeed](https://in.indeed.com/?from=gnav-homepage)    [Naukri](https://www.naukri.com/mnjuser/homepage)
+
